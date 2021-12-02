@@ -4,4 +4,5 @@
 # The zip file that can be found in this Github respository carries the dataset that needs to be utilized, the R file that carries the function I created, as well as another readme file that will explain how to upload that dataset and R file into R, and it also explains how to use the function.
 # To get the zip file, click on it, then click on download and that will get it on your computer.
 # You will then be able to extract the 3 files contained in the folder so that you can utilize all this stuff in R.
+# The FIRST thing you should do is read the Readme text file in that is in the zip folder because it will explain everything you need to know.
 # Have Fun using my project!
